@@ -1,0 +1,15 @@
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\bin\Debug\net10.0\Uppgift4.8.exe
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\bin\Debug\net10.0\Uppgift4.8.deps.json
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\bin\Debug\net10.0\Uppgift4.8.runtimeconfig.json
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\bin\Debug\net10.0\Uppgift4.8.dll
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\bin\Debug\net10.0\Uppgift4.8.pdb
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.AssemblyInfoInputs.cache
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.AssemblyInfo.cs
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.csproj.CoreCompileInputs.cache
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.dll
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\refint\Uppgift4.8.dll
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.pdb
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.genruntimeconfig.cache
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\ref\Uppgift4.8.dll
+C:\Users\kebo09001\Documents\GitHub\Kapitel-4-Uppgifter\Uppgift4.8\Uppgift4.8\obj\Debug\net10.0\Uppgift4.8.csproj.Up2Date

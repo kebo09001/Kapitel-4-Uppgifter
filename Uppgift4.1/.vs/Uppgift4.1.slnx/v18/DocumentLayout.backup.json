@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kebo09001\\Documents\\GitHub\\Kapitel-4-Uppgifter\\Uppgift4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28928F6A-A416-4170-AB8A-DC6E78031B52}|Uppgift4.1\\Uppgift4.1.csproj|c:\\users\\kebo09001\\documents\\github\\kapitel-4-uppgifter\\uppgift4.1\\uppgift4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28928F6A-A416-4170-AB8A-DC6E78031B52}|Uppgift4.1\\Uppgift4.1.csproj|solutionrelative:uppgift4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kebo09001\\Documents\\GitHub\\Kapitel-4-Uppgifter\\Uppgift4.1\\Uppgift4.1\\Program.cs",
+              "RelativeDocumentMoniker": "Uppgift4.1\\Program.cs",
+              "ToolTip": "C:\\Users\\kebo09001\\Documents\\GitHub\\Kapitel-4-Uppgifter\\Uppgift4.1\\Uppgift4.1\\Program.cs",
+              "RelativeToolTip": "Uppgift4.1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:45:44.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
